@@ -1,7 +1,8 @@
 <h1 align="center">Hey there, I'm Sairaj</h1>
 
 <p align="center">
-  I'm a student from Pune, pursuing BE (IT) at SKNCOE, Pune/ I have a focus on Python and Front-End Web Development.
+  I'm a student from Pune, pursuing BE (IT) at SKNCOE, Pune. 
+  I have a focus on Python, SQL Front-End Web Development. I love making music and playing chess in my free time.
 </p>
 
 ---
@@ -16,7 +17,7 @@
 
 ---
 
-###  My Current Goals (for now):-
+###  My Goals (for now):-
 
 * Deepen my knowledge in back-end development.
 * Build 2-3 portfolio projects that solve a real-world problem.
